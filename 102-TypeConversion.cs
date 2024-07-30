@@ -2,7 +2,7 @@
 {
     class ProgramTypeConversion
     {
-        static void Main()
+        static void _()
         {
             byte bA = 1;
             int iA = bA;

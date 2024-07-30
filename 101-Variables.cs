@@ -1,11 +1,8 @@
-﻿
-using System;
-
-namespace Variables
+﻿namespace Variables
 {
-    class Program
+    class ProgramVariables
     {
-        static void Main(string[] args)
+        static void _()
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("\n");
