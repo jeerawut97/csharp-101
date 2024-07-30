@@ -1,0 +1,14 @@
+C:\Users\jeerawut.j\source\repos\csharp-101\bin\Debug\net8.0\csharp-101.exe
+C:\Users\jeerawut.j\source\repos\csharp-101\bin\Debug\net8.0\csharp-101.deps.json
+C:\Users\jeerawut.j\source\repos\csharp-101\bin\Debug\net8.0\csharp-101.runtimeconfig.json
+C:\Users\jeerawut.j\source\repos\csharp-101\bin\Debug\net8.0\csharp-101.dll
+C:\Users\jeerawut.j\source\repos\csharp-101\bin\Debug\net8.0\csharp-101.pdb
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.AssemblyInfoInputs.cache
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.AssemblyInfo.cs
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.csproj.CoreCompileInputs.cache
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.dll
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\refint\csharp-101.dll
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.pdb
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.genruntimeconfig.cache
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\ref\csharp-101.dll
