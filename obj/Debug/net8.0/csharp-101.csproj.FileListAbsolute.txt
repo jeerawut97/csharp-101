@@ -12,3 +12,4 @@ C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\refint\csharp-101.d
 C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.pdb
 C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.genruntimeconfig.cache
 C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\ref\csharp-101.dll
+C:\Users\jeerawut.j\source\repos\csharp-101\obj\Debug\net8.0\csharp-101.sourcelink.json
