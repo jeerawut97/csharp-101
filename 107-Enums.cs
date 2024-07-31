@@ -9,7 +9,7 @@ namespace csharp_101 {
 
     class ProgramEnums
     {
-        static void Main(string[] _)
+        static void _(string[] _)
         {
             var method = ShippingMethod.RegularAirMail;
             Console.WriteLine(method);
