@@ -5,7 +5,7 @@ namespace csharp_101
 
     class ProgramRandomClass
     {
-        static void Main(string[] args)
+        static void _(string[] args)
         {
             var random = new Random();
             for (var i = 0; i < 10; i++)
