@@ -8,7 +8,7 @@ namespace csharp_101
     }
     class ProgramReference
     {
-        static void Main(string[] _)
+        static void _(string[] _)
         {
             // Non Ref
             var a = 10;
