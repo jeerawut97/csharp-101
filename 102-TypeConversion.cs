@@ -1,4 +1,4 @@
-﻿namespace TypeConversion
+﻿namespace csharp_101
 {
     class ProgramTypeConversion
     {

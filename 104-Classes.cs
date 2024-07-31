@@ -1,4 +1,4 @@
-﻿namespace Classes
+﻿namespace csharp_101
 {
     public class Person
     {

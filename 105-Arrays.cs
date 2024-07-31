@@ -1,4 +1,4 @@
-﻿namespace Arrays
+﻿namespace csharp_101
 {
     class ProgramArrays
     {

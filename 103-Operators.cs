@@ -1,4 +1,4 @@
-﻿namespace Operators
+﻿namespace csharp_101
 {
     class ProgramOperators
     {

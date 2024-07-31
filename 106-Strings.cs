@@ -4,7 +4,7 @@ namespace csharp_101
 {
     class ProgramStrings
     {
-        static void Main(string[] args)
+        static void _(string[] args)
         {
             var firstName = "Mosh";
             String lastName = "Hamedani";

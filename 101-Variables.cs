@@ -1,4 +1,4 @@
-﻿namespace Variables
+﻿namespace csharp_101
 {
     class ProgramVariables
     {
