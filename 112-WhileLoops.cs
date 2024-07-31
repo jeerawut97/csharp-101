@@ -5,7 +5,7 @@ namespace csharp_101
 
     class ProgramWhileLoops
     {
-        static void Main(string[] args)
+        static void _(string[] args)
         {
             while (true)
             {
