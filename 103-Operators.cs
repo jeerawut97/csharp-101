@@ -2,7 +2,7 @@
 {
     class ProgramOperators
     {
-        static void Main()
+        static void _()
         {
             // Arithmetic Operators(+, -, *, /, %) Ex. a + b, a++ a--
             float a = 10;
