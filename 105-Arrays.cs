@@ -2,7 +2,7 @@
 {
     class ProgramArrays
     {
-        static void Main()
+        static void _()
         {
             var numbers = new int[3];
             numbers[0] = 1;
