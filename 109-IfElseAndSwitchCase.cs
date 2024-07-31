@@ -12,7 +12,7 @@ namespace csharp_101
 
     class ProgramConditionals
     {
-        static void Main(string[] args)
+        static void _(string[] args)
         {
             // if else base
             int hour = 10;
