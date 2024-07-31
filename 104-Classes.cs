@@ -11,7 +11,7 @@
     }
     class ProgramClasses
     {
-        static void Main()
+        static void _()
         {
             var john = new Person();
             john.FirstName = "John";
