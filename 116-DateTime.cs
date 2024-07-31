@@ -5,7 +5,7 @@ namespace csharp_101
 
     class ProgramDateTime
     {
-        static void Main(string[] _)
+        static void _(string[] _)
         {
             var dateTime = new DateTime(2024, 07, 31);
             var now = DateTime.Now;
