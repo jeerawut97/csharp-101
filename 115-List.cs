@@ -5,7 +5,7 @@ namespace csharp_101
 
     class ProgramLists
     {
-        static void Main(string[] args)
+        static void _(string[] args)
         {
             // List is dynamic size
 
