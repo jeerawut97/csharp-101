@@ -5,7 +5,7 @@ namespace csharp_101
 
     class ProgramFiles
     {
-        static void Main(string[] _)
+        static void _(string[] _)
         {
             var path = @"";
             File.Copy(@"from", @"to", true);
