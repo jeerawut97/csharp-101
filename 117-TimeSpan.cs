@@ -5,7 +5,7 @@ namespace csharp_101
 
     class ProgramTimeSpan
     {
-        static void Main(string[] _)
+        static void _(string[] _)
         {
             // Creating
             var timeSpan = new TimeSpan(1, 2, 3);
