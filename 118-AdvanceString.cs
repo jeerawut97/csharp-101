@@ -6,7 +6,7 @@ namespace csharp_101
 
     class ProgramAdvanceString
     {
-        static void Main(string[] _)
+        static void _(string[] _)
         {
             var fullName = "Mosh Hamedani ";
             Console.WriteLine("Trim: '{0}'", fullName.Trim());
