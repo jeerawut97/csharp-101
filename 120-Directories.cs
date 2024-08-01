@@ -5,7 +5,7 @@ namespace csharp_101
 
     class ProgramDirectories
     {
-        static void Main(string[] _)
+        static void _(string[] _)
         {
             Directory.CreateDirectory(@"d:\temp\folder1");
 
